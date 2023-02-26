@@ -1,1 +1,2 @@
 # cs250
+I interpet users needs by documenting them and creating user stories. This allows a clear picture of what users want as well as allows me to priotize certain functions over others. Creating user stories is just one way to do this, and allows for more optimal organization. I apporach developing programs gradually, step by step allowing for changes and pivots as needed. I hope to incorporate the open communication seen in agile and Scrum methods in my futurue work. I also believe that open communicaiton is the key to being a good team member in software development.
